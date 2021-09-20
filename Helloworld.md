@@ -3,6 +3,7 @@ title: "Coursera Data science"
 author: "Thomas Imanol Rodriguez"
 date: "9/20/2021"
 output: html_document
+#this is a markdown file
 ---
 
 ```{r setup, include=FALSE}
